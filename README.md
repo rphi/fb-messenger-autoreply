@@ -12,7 +12,7 @@ This makes use of the very handy [facebook-chat-api](https://github.com/Schmaver
 
 ## Usage
 
-Copy the `credentials.js.template` file to `credentials.js` include your 
+Copy the `credentials.example.json` file to `credentials.json` include your 
 FB username and password. (Remember not to post this file online,
 `.gitignore` should exclude it.)
 
